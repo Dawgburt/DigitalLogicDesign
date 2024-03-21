@@ -1,0 +1,15 @@
+Creating   'hw61.eep'
+Creating   'hw61.hex'
+Creating   'hw61.obj'
+Creating   'hw61.lis'
+Creating   'hw61.map'
+
+Assembling 'hw61.asm'
+Including  'C:\VMLAB\include\m168def.inc'
+hw61.asm(4) : hw61.asm(6) : hw61.asm(7) : hw61.asm(8) : hw61.asm(9) : hw61.asm(10) : hw61.asm(11) : hw61.asm(12) : 
+Assembly complete with 5 errors
+
+Deleting   'hw61.eep'
+Deleting   'hw61.obj'
+Deleting   'hw61.hex'
+Deleting   'hw61.map'

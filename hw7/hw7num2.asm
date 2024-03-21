@@ -1,0 +1,5 @@
+.include "C:\VMLAB\include\m168def.inc"
+LDI R16, 10110000
+OUT DDRB, R16
+LDI R16, 00001000
+OUT SPCR, R16

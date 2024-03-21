@@ -1,0 +1,16 @@
+Creating   'hw7num1.eep'
+Creating   'hw7num1.hex'
+Creating   'hw7num1.obj'
+Creating   'hw7num1.lis'
+Creating   'hw7num1.map'
+
+Assembling 'hw7num1.asm'
+Including  'C:\VMLAB\include\m168def.inc'
+
+Program memory usage:
+Code             :   16 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :   16 words
+
+Assembly complete with no errors.
