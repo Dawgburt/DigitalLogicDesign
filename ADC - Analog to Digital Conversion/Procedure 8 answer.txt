@@ -1,0 +1,1 @@
+There is an inverter on the Clk, which is connected to the Rst so that the 74163 has time to cycle through its count, and only at that point will the values from the DFFs be passed to the output.
